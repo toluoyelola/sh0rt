@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 4896be37dcefaa9fcbb8c69440fd64e862a2d880
 import java.util.Scanner;
 
 class HelloWorld {
@@ -17,6 +14,16 @@ class HelloWorld {
 
 	if(language.equalsIgnoreCase("hungarian") || language.isEmpty()){
           System.out.println("Szia " + name + "!");  
+        }
+
+	else if (language.equalsIgnoreCase("english")){
+            System.out.println("Hello " + name + "!");
+        }
+	else if (language.equalsIgnoreCase("yoruba")){
+            System.out.println(name + " bawo ni");
+        }
+        else{
+           System.out.println("Sorry " + name + " I do not know that language"); 
         }
 
 
