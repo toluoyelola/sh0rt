@@ -11,6 +11,10 @@ class HelloWorld {
         System.out.println("What language do you speak? ");
         String language = scanner.nextLine();
 
+	if(language.equalsIgnoreCase("hungarian") || language.isEmpty()){
+          System.out.println("Szia " + name + "!");  
+        }
+
 
     }
 }
