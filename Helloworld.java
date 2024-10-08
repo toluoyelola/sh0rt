@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 class HelloWorld {
@@ -14,6 +15,10 @@ class HelloWorld {
 	if(language.equalsIgnoreCase("hungarian") || language.isEmpty()){
           System.out.println("Szia " + name + "!");  
         }
+	else if (language.equalsIgnoreCase("english")){
+            System.out.println("Hello " + name + "!");
+        }
+
 
 
     }
