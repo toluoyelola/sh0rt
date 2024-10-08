@@ -18,6 +18,12 @@ class HelloWorld {
 	else if (language.equalsIgnoreCase("english")){
             System.out.println("Hello " + name + "!");
         }
+	else if (language.equalsIgnoreCase("yoruba")){
+            System.out.println(name + " bawo ni");
+        }
+        else{
+           System.out.println("Sorry " + name + " I do not know that language"); 
+        }
 
 
 
