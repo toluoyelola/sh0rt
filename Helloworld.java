@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4896be37dcefaa9fcbb8c69440fd64e862a2d880
 import java.util.Scanner;
 
 class HelloWorld {
