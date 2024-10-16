@@ -5,7 +5,7 @@ Should be adaptable to mobile phone screens
 Product description(colour size)
 Image of the product
 Messaging (between buyer and seller)
-Reviews
+Reviews: 
 Order tracking
 Favourite items
 User registration
@@ -13,6 +13,5 @@ User registration
 Non functional requirements
 Show users similar things to what they have liked
 Protection of user data and secure transactions
-Fast page load times and responsive user interface
 Adaptable to phones, desktop etc
 Adherence to relevant e-commerce regulations and data protection laws
