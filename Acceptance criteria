@@ -1,0 +1,9 @@
+User Story:As a visitor, I want to search items by category to see a wide variety.
+User Story:As a registered customer, I want to favorite items so that I can buy them later.
+Acceptance criteria: Given that I have a registered account for this webshop, when I favourite items that i like, the items are saved
+User Story:As a customer, I want to contact the seller to get further details about the item.
+User Story:As a user, I want to create an account so that all my activity is saved
+Acceptance criteria: Given that I have a working email address, when I can create one account with this webshop, I am now a registered user
+User Story:As a user, I want to see reviews about a seller so I can trust them
+User Story:As a user, I would like a history option, so I can view my previous orders
+User Story:As a buyer I would like secure card payment, so I cam make payments quickly and securely
