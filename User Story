@@ -1,6 +1,7 @@
 
 As a visitor, I want to search items by category to see a wide variety.
 As a registered customer, I want to favorite items so that I can buy them later.
+    Acceptance criteria: Acceptance criteria: Given that I have a registered account for this webshop, when I favourite items that i like, the items are saved
 As a customer, I want to contact the seller to get further details about the item.
 As a user, I want to create an account so that all my activity is saved
 As a user, I want to see reviews about a seller so I can trust them
