@@ -1,14 +1,13 @@
 Functional requirements: 
-Categories(clothes, shoes, looks, etc)
-Paypment option( credit/debit card, apple pay…)
-Should be adaptable to mobile phone screens
-Product description(colour size)
-Image of the product
-Messaging (between buyer and seller)
-Reviews: 
-Order tracking
-Favourite items
-User registration
+The website should have ategories(clothes, shoes, accessories, etc)
+There should be paypment option( credit/debit card, apple pay…)
+The products should have description(colour, size, condition), so the buyer has a good idea of the product
+There should be images of the product as another means for the buyer to have a good idea of the product
+Messaging (between buyer and seller), to get more information about the product, besides what is available in the pictures and description
+Reviews from previous about the seller and the product they got from them
+Order tracking should be available for users to see the progress of their purchase
+Users should be able to favourite items they like
+User registration, so that users can have their activity saved
 
 Non functional requirements
 Show users similar things to what they have liked
