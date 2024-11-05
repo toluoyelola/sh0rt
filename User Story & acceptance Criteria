@@ -1,0 +1,24 @@
+
+As a visitor, I want to search items by category to see a wide variety.
+    Acceptance criteria: Given that I have good internet connection, when I go to the serch bar on the webshop, the sytem should show mw categories to pick from 
+
+As a registered customer, I want to favorite items so that I can buy them later.
+    Acceptance criteria: Acceptance criteria: Given that I have a registered account for this webshop, when I favourite items that i like, the items are saved for me to come backto
+
+As a customer, I want to contact the seller to get further details about the item.
+    Acceptance criteria: Given that I have good internet connection, when I click on a product, the system should provide the option to message the seller
+
+As a user, I want to create an account so that all my activity is saved
+        Acceptance criteria: Given that I have a working email address, when I can create one account with this webshop, I am now a registered user
+
+As a user, I want to see reviews about a seller so I can trust them
+     Acceptance criteria: Given that I have good internet connection, when I find a seller, reviews from prevous buyers can be viewed
+
+
+As a user, I would like a history option, so I can view my previous orders
+As a buyer I would like secure card payment, so I cam make payments quickly and securely
+
+
+As an administrator, I want to check that a user is real
+
+
