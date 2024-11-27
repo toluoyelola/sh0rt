@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.6">
   <diagram name="Page-1" id="7U7v3mI7COubQv93LFms">
-    <mxGraphModel dx="1134" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="cFR76HdsNFteJirVGfGA-45" value="New user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="458" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cFR76HdsNFteJirVGfGA-46" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Delete item in &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;cart&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cFR76HdsNFteJirVGfGA-46" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;Delete item in &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;cart&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="410" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cFR76HdsNFteJirVGfGA-49" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Edit item in cart&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
