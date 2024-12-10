@@ -1,5 +1,8 @@
 package org.example;
 
+/**
+ * Represents the products in the shop
+ */
 public class Products {
 
     private String name;
